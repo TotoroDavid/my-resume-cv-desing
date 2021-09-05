@@ -8,6 +8,6 @@ you can check it in the next link below
 
 https://cv-resume-davidtoro.netlify.app/
 
-<img src=''>
-<img src=''>
-<img src=''>
+<img src='https://github.com/TotoroDavid/my-resume-cv-desing/blob/master/assets/img/Screen%20Shot%202021-09-05%20at%204.34.11%20pm.png?raw=true'>
+<img src='https://github.com/TotoroDavid/my-resume-cv-desing/blob/master/assets/img/Screen%20Shot%202021-09-05%20at%204.34.24%20pm.png'>
+<img src='https://github.com/TotoroDavid/my-resume-cv-desing/blob/master/assets/img/Screen%20Shot%202021-09-05%20at%204.35.02%20pm.png'>
